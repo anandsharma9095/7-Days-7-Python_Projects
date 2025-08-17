@@ -2,7 +2,6 @@
 
 import json
 
-
 #Reading and Writing files in this section 
 #It was kinda getting annoying to read and write files multiple times
 
