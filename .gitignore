@@ -1,0 +1,6 @@
+
+
+# my virtual environment
+env/
+#my environmental variables
+.env
