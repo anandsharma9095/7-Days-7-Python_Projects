@@ -4,3 +4,5 @@
 env/
 #my environmental variables
 .env
+# ignoring all the pycache files
+__pycache__/
